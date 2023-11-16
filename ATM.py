@@ -3,7 +3,6 @@ print("   FEDERAL BANK ATM   ")
 
 user_balance = 100000
 user_pin = 1234
-user_name = "Sruthi"
 while True:
     name = str(input("Enter Your Name :  "))
     print("Welcome ",name)
